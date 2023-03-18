@@ -14,7 +14,7 @@
 
  - 部署链接：https://testnet.bscscan.com/tx/0x56ecd69ad1536823b5f86af19aa87c3e3424f2aaf06ba915c5c9731ebbf27521
 
- - 验证代码：https://testnet.bscscan.com/address/0x5d5562b5bf56e4db526938b4813b97bdd5bf8fd0#code
+ - 合约代码：https://testnet.bscscan.com/address/0x5d5562b5bf56e4db526938b4813b97bdd5bf8fd0#code
 
 ## 2.质押代币挖矿合约
 
@@ -30,7 +30,7 @@
 
  - 部署链接：https://testnet.bscscan.com/tx/0x531e604f6cb0402f9a89acae88312fa7ed1bb258d2c4407755b7f3ac76db75eb
  
- - 验证代码：https://testnet.bscscan.com/address/0x95a55292b6bfe03f1adf4062bc050b6f6cace3b9#code
+ - 合约代码：https://testnet.bscscan.com/address/0x95a55292b6bfe03f1adf4062bc050b6f6cace3b9#code
 
 
 ## 3.交互
