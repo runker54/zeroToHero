@@ -12,7 +12,7 @@
 
  - 合约地址：0x5d5562b5bF56E4Db526938b4813b97bDD5bf8Fd0
 
- - 部署链接:https://testnet.bscscan.com/tx/0x56ecd69ad1536823b5f86af19aa87c3e3424f2aaf06ba915c5c9731ebbf27521
+ - 部署链接：https://testnet.bscscan.com/tx/0x56ecd69ad1536823b5f86af19aa87c3e3424f2aaf06ba915c5c9731ebbf27521
 
 
 
