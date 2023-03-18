@@ -12,7 +12,7 @@
 
  - 合约地址：0x5d5562b5bF56E4Db526938b4813b97bDD5bf8Fd0
 
- - 合约部署链接:https://testnet.bscscan.com/tx/0x56ecd69ad1536823b5f86af19aa87c3e3424f2aaf06ba915c5c9731ebbf27521
+ - 部署链接:https://testnet.bscscan.com/tx/0x56ecd69ad1536823b5f86af19aa87c3e3424f2aaf06ba915c5c9731ebbf27521
 
 
 
@@ -28,7 +28,7 @@
 
  - 合约地址：0x95A55292B6BFE03F1aDF4062bc050b6F6CaCe3B9
 
- - 合约部署链接：https://testnet.bscscan.com/tx/0x531e604f6cb0402f9a89acae88312fa7ed1bb258d2c4407755b7f3ac76db75eb
+ - 部署链接：https://testnet.bscscan.com/tx/0x531e604f6cb0402f9a89acae88312fa7ed1bb258d2c4407755b7f3ac76db75eb
 
 
 ## 3.交互
